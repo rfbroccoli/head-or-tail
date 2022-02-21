@@ -1,0 +1,27 @@
+.box {
+  text-align: center;
+}
+
+.display {
+  font-size: 5rem;
+}
+
+.result {
+  background: pink;
+}
+
+.green {
+  color: green;
+}
+
+.record {
+  width: 30rem;
+  text-align: center;
+  /* background: green; */
+    margin: 2rem 10rem;
+  /*  up right down left */
+}
+
+.red {
+  color: red;
+}
